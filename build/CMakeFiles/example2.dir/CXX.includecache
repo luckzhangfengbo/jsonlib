@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/jsonlib/json.h
+memory
+-
+string
+-
+map
+-
+vector
+-
+iostream
+-
+initializer_list
+-
+
+/root/jsonlib/examples/example.cpp
+jsonlib/json.h
+/root/jsonlib/examples/jsonlib/json.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+

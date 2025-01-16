@@ -1,0 +1,4 @@
+/root/jsonlib/build/CMakeFiles/rebuild_cache.dir
+/root/jsonlib/build/CMakeFiles/jsonlib.dir
+/root/jsonlib/build/CMakeFiles/edit_cache.dir
+/root/jsonlib/build/CMakeFiles/example2.dir
